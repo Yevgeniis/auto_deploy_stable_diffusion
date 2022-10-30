@@ -1,0 +1,1 @@
+# auto_deploy_stable_diffusion
